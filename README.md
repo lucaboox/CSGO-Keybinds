@@ -1,2 +1,2 @@
 # CSGO-Keybinds
-Keybinds for CSGO used by lucaboox
+Key binds for CSGO used by lucaboox
